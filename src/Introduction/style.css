@@ -1,0 +1,49 @@
+h1{
+    margin-top: 70px;
+    color: rgb(235, 75, 75);
+}
+.words{
+    margin-left: 30px;
+}
+#paragraph{
+    font-weight: 900;
+}
+.spanwords{
+    font-weight: 400;
+}
+/* .body{
+    background-image: url(public/images/back.jpg);
+} */
+
+/* .nav-bar {
+    display: none;
+  } */
+  
+  #get-started{
+    background-color: rgb(2, 28, 36);
+    padding: 15px 10px;
+    border: none;
+    margin-left: 200px;
+    color: rgb(1, 225, 255);
+    font-weight: 900;
+    font-size: 20px;
+    margin-top: 40px;
+
+}
+#get-started :hover{
+    background-color:rgb(0, 255, 255) ;
+    color: rgb(2, 28, 36);
+    cursor: pointer;
+
+}
+
+
+
+
+
+
+
+
+
+
+
